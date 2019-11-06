@@ -1,0 +1,10 @@
+D:\C#\RectAligVisualization\RectAligVisualization\bin\Debug\RectAligVisualization.exe.config
+D:\C#\RectAligVisualization\RectAligVisualization\bin\Debug\RectAligVisualization.exe
+D:\C#\RectAligVisualization\RectAligVisualization\bin\Debug\RectAligVisualization.pdb
+D:\C#\RectAligVisualization\RectAligVisualization\obj\Debug\RectAligVisualization.csprojAssemblyReference.cache
+D:\C#\RectAligVisualization\RectAligVisualization\obj\Debug\RectAligVisualization.MainW.resources
+D:\C#\RectAligVisualization\RectAligVisualization\obj\Debug\RectAligVisualization.Properties.Resources.resources
+D:\C#\RectAligVisualization\RectAligVisualization\obj\Debug\RectAligVisualization.csproj.GenerateResource.cache
+D:\C#\RectAligVisualization\RectAligVisualization\obj\Debug\RectAligVisualization.csproj.CoreCompileInputs.cache
+D:\C#\RectAligVisualization\RectAligVisualization\obj\Debug\RectAligVisualization.exe
+D:\C#\RectAligVisualization\RectAligVisualization\obj\Debug\RectAligVisualization.pdb
